@@ -1,0 +1,96 @@
+# STACK
+
+# REGS
+
+# FLAGS
+
+# SEED
+
+# MODE
+MTRIG: DEG
+MFMT: FIX 4
+
+# EQUATION LIST
+EQNPTR: 0
+EQN
+EQNEND
+
+# PROGRAM
+PTR: 0
+PGM
+  LBL P
+  DEG
+  INPUT V
+  INPUT A
+  9.80665
+  STO G
+  RCL V
+  RCL A
+  SIN
+  \mul;
+  x\sqr;
+  2
+  \div;
+  RCL\div; G
+  STO H
+  RCL A
+  2
+  \mul;
+  SIN
+  RCL V
+  ENTER
+  \mul;
+  \mul;
+  RCL\div; G
+  STO D
+  2
+  RCL V
+  RCL A
+  SIN
+  \mul;
+  \mul;
+  RCL G
+  \div;
+  STO T
+  0
+  RCL H
+  RCL D
+  RCL T
+  RTN
+  LBL G
+  1.48
+  STO S
+  INPUT V
+  INPUT A
+  INPUT S
+  RCL V
+  RCL S
+  \mul;
+  STO B
+  2
+  RCL A
+  \mul;
+  SIN
+  RCL B
+  x\sqr;
+  \mul;
+  9.80665
+  \div;
+  STO D
+  RCL B
+  RCL A
+  SIN
+  \mul;
+  x\sqr;
+  2
+  9.80665
+  \mul;
+  \div;
+  STO H
+  CLx
+  ENTER
+  RCL B
+  RCL H
+  RCL D
+  RTN
+PGMEND
