@@ -1,6 +1,6 @@
 # state Collection
 
-*Made by jacober-calc for the SwissMicros DM32
+*Made by jacober-calc for the SwissMicros DM32*
 
 ## File Listing
 
