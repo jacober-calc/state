@@ -4,11 +4,9 @@
 
 ## File Listing
 
-**current folder**: The most up to date Statefiles being used on my personal DM32 calculator are available in the current folder. Those files will be updated periodically, when major changes are made to my own Statefile configuration.
-
-**backup folder**: Previous copies of Statefiles will be kept in the backup folder until a new major update occurs. These files will only be kept until the next current folder update.
-
-**archive folder**: This is where dead Statefiles will go, ones that are no longer used at all or ones that have been greatly updated or encorporated into new Statefiles. These are purely for users to access Statefiles of their own preference.
+- **current folder**: The most up to date Statefiles being used on my personal DM32 calculator are available in the current folder. Those files will be updated periodically, when major changes are made to my own Statefile configuration.
+- **backup folder**: Previous copies of Statefiles will be kept in the backup folder until a new major update occurs. These files will only be kept until the next current folder update.
+- **archive folder**: This is where dead Statefiles will go, ones that are no longer used at all or ones that have been greatly updated or encorporated into new Statefiles. These are purely for users to access Statefiles of their own preference.
 
 ## Bug and Issue Reporting
 
