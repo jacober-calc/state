@@ -1,4 +1,4 @@
-# state Collection
+# statefile Collection
 
 *Made by jacober-calc for the SwissMicros DM32*
 
