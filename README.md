@@ -15,3 +15,13 @@ Only the Statefiles contained in the current folder have any sort of attention b
 ## Licence and Use
 
 These Statefiles are under a licence and some of them are whole projects represented in their own repos on this site. So be sure to check the licence and request from the author before sharing. As always you are free to edit and make changes and be sure to share and collaborate your work here.
+
+## By jacober-calc for SwissMicros DM32
+
+> - [SwissMicros Website](https://www.swissmicros.com)
+> - [DM32 product page](https://www.swissmicros.com/product/model-dm32)
+> - [SwissMicros full products page](https://www.swissmicros.com/products)
+> - [DM32 Online User Manual](https://technical.swissmicros.com/dm32/doc/dm32_user_manual.html)
+> - [SwissMicros Calculator Forum](https://forum.swissmicros.com/index.php)
+
+![jacober-calc](https://i.imgur.com/YVqd59l.png)
